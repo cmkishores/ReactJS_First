@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 ##### See the live version 
 
-[github-pages] (https://cmkishores.github.io/To-Do/) 
+[github-pages] [https://cmkishores.github.io/To-Do/]
